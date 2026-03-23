@@ -42,7 +42,7 @@ This project presents a data-driven customer segmentation dashboard built using 
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard Preview](images/dashboard-preview.png)
+[![Dashboard Preview](images/dashboard-preview.png)](https://github.com/AdarshS123/customer-segmentation-powerbi/blob/f40eb38bd1a10f6768987bcf9ff7e59643e45085/screenshot/Screenshot%202026-03-23%20172317.png)
 
 ---
 
